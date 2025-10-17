@@ -14,3 +14,6 @@ document.addEventListener("DOMContentLoaded", () => {
 export function subs(a, b) {
   return a + b;
 }
+export function div(a, b) {
+  return a + b;
+}
